@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": "CRK10001",
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/SfM33jM/Virat.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1500000"
+    },
+    {
+      "playerId": "CRK10002",
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/MnsRWcX/Joe-root.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "2000000"
+    },
+    {
+      "playerId": "CRK10003",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/djvBKVv/Jasprit-Bumrah.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "1200000"
+    },
+    {
+      "playerId": "CRK10004",
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/HgLGX81/Shaheen-Afridi.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": "900000"
+    },
+    {
+      "playerId": "CRK10005",
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "image": "https://i.ibb.co.com/NLb2PPB/Ravindra-Jadeja.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": "1800000"
+    },
+    {
+      "playerId": "CRK10006",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/mCfhSJJ/Kane-Williamson.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "2200000"
+    },
+    {
+      "playerId": "CRK10007",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/jv6YRxT/Quinton-de-Kock.jpg",
+      "role": "Wicketkeeper",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1600000"
+    },
+    {
+      "playerId": "CRK10008",
+      "name": "Steve Smith",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/2KWFSFY/Steve-Smith.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1900000"
+    },
+    {
+      "playerId": "CRK10009",
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/gS8pxtt/Shakib-Al-Hasan.webp",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": "1300000"
+    },
+    {
+      "playerId": "CRK10010",
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/DG3JCK3/Chris-Gayle.webp",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm off-spin",
+      "biddingPrice": "1700000"
+    },
+    {
+      "playerId": "CRK10011",
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/GWS22hf/Ben-Stokes.jpg",
+      "role": "All-rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "2100000"
+    },
+    {
+      "playerId": "CRK10012",
+      "name": "Mohammed Shami",
+      "country": "India",
+      "image": "https://i.ibb.co.com/dLL6RQB/Mohammed-Shami.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": "1000000"
+    },
+    {
+      "playerId": "CRK10013",
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/rZkgMFN/David-Warner.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1400000"
+    },
+    {
+      "playerId": "CRK10014",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/z48BdFW/Babar-Azam.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1300000"
+    },
+    {
+      "playerId": "CRK10015",
+      "name": "Rassie van der Dussen",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/nCWmwhx/Rassie-van-der-Dussen.webp",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": "1100000"
+    }
+  ]
+  
